@@ -25,7 +25,7 @@ cd tdk-discord-bot
 ```shell
 cp .env.example .env
 # .env.example dosyasını .env olarak değiştirin.
-# ardından BOT_TOKEN değişkenine oluşturmuş olduğunuz discord botunun token'ını ypıştırın
+# ardından BOT_TOKEN değişkenine oluşturmuş olduğunuz discord botunun token'ını yapıştırın
 ```
 
 ## Çalıştırma
@@ -33,7 +33,7 @@ cp .env.example .env
 
 ```shell
 pip3 install -r requirements.txt
-# Gerekli kütüphanelerini kuruluu
+# Gerekli kütüphanelerini kurulumu
 python main.py
 # main.py dosyasını çalıştırır.
 ```
