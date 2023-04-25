@@ -1,10 +1,10 @@
 <h1 align="center">TDK Discord Bot</h1>
 
-Bu proje Python ile geliştirilmiştir. TDK API'ini kullanan Discord Kelime Botu
+Bu proje Python ile geliştirilmiştir. Projenin amaçı Discord sunucularına eklendiği zaman **`/tdk`** komutu ile kelimelerin anlamlarını size göstermektir. TDK API'ini kullanılarak geliştirilmiştir.
 
 <br>
 
-Proje de kullanılan kütüphaneler;
+**Proje de kullanılan kütüphaneler**;
 - [discord.py](https://github.com/Rapptz/discord.py)
 - [python-dotenv](https://github.com/theskumar/python-dotenv)
 - [requests](https://github.com/psf/requests)
